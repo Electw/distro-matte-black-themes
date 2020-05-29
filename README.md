@@ -1,10 +1,6 @@
 # Matte Black Themes
-[![Matte Black (White)](https://img.shields.io/amo/users/matte-black-red.svg?label=Firefox&style=for-the-badge&color=black)](https://addons.mozilla.org/firefox/addon/matte-black-red/)
-[![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
-Browser themes I made for Firefox and Chrome
-
-# Download Links
+A few more colours for Matte Black to match default Linux distro themes
 
 ## Matte Black Series
 
