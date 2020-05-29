@@ -4,7 +4,7 @@ A few more colours for [Matte Black](https://github.com/elibroftw/matte-black-th
 
 ## How to install
 
-Links to each individual addons.mozilla.org page are listed below.
+Links to each individual Firefox Add-ons page are listed below.
 
 Alternatively, XPI files are found in each theme folder. Download the files, then drag and drop an XPI file into the Firefox browser window to install.
 
