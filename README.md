@@ -10,7 +10,7 @@ Alternatively, XPI files are found in each theme folder. Download the files, the
 
 ### Pop!_OS Orange Dark Mode
 
-![pop-orange-dark](Matte Black (Pop!_OS Orange Dark Mode)/pop-orange-dark.png)
+![](matte-black-pop-orange-dark/pop-orange-dark.png)
 
 Orange accent from the System76 Pop GTK and shell dark theme.
 
@@ -18,7 +18,7 @@ Install [here](https://addons.mozilla.org/firefox/addon/matte-black-pop-os-orang
 
 ### Pop!_OS Teal Dark Mode
 
-![](Matte Black (Pop!_OS Teal Dark Mode)/pop-teal-dark.png)
+![](matte-black-pop-teal-dark/pop-teal-dark.png)
 
 Teal accent from the System76 Pop GTK and shell dark theme.
 
@@ -26,7 +26,7 @@ Install [here](https://addons.mozilla.org/firefox/addon/matte-black-pop-os-teal-
 
 ### Pop!_OS Orange Light Mode
 
-![](Matte Black (Pop!_OS Orange Light Mode)/pop-orange-light.png)
+![](matte-black-pop-orange-light/pop-orange-light.png)
 
 Orange accent from the System76 Pop GTK and shell light theme.
 
@@ -34,7 +34,7 @@ Install [here](https://addons.mozilla.org/firefox/addon/matte-black-pop-os-orang
 
 ### Pop!_OS Teal Light Mode
 
-![](Matte Black (Pop!_OS Teal Light Mode)/pop-teal-light.png)
+![](matte-black-pop-teal-light/pop-teal-light.png)
 
 Teal accent from the System76 Pop GTK and shell light theme.
 
@@ -42,7 +42,7 @@ Install [here](https://addons.mozilla.org/firefox/addon/matte-black-pop-os-teal-
 
 ### Ubuntu Aubergine
 
-![](Matte Black (Ubuntu Aubergine)/ubuntu-aubergine.png)
+![](matte-black-ubuntu-aubergine/ubuntu-aubergine.png)
 
 Aubergine accent from Ubuntu's Yaru theme.
 
