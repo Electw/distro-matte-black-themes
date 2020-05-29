@@ -10,7 +10,7 @@ Alternatively, XPI files are found in each theme folder. Download the files, the
 
 ### Pop!_OS Orange Dark Mode
 
-![](Matte Black (Pop!_OS Orange Dark Mode)/pop-orange-dark.png)
+![pop-orange-dark](Matte Black (Pop!_OS Orange Dark Mode)/pop-orange-dark.png)
 
 Orange accent from the System76 Pop GTK and shell dark theme.
 
