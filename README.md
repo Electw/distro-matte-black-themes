@@ -1,6 +1,6 @@
 # Matte Black Themes
 
-A few more colours for [Matte Black](https://github.com/elibroftw/matte-black-theme) by [elibroftw](https://github.com/elibroftw) to match default Linux distro themes. Please create a [new issue](https://github.com/Electw/distro-matte-black-themes/issues) for any suggestions. These themes are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/]), the same as the original.
+A few more colours for [Matte Black](https://github.com/elibroftw/matte-black-theme) by [elibroftw](https://github.com/elibroftw) to match default Linux distro themes. Please create a [new issue](https://github.com/Electw/distro-matte-black-themes/issues) for any suggestions. These themes are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), the same as the original.
 
 ## How to install
 
